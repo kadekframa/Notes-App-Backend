@@ -1,0 +1,19 @@
+{
+  "name": "sib_notes-app-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadekframa/Notes-App-Backend.git"
+  },
+  "author": "Kadek Frama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadekframa/Notes-App-Backend/issues"
+  },
+  "homepage": "https://github.com/kadekframa/Notes-App-Backend#readme"
+}
